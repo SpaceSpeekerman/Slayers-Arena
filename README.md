@@ -6,8 +6,6 @@ _Slayer’s Arena_ è un gioco di ruolo tattico a turni, dove ogni giocatore con
 Lo scopo è eliminare gli avversari sfruttando movimento, attacchi e abilità speciali.  
 Puoi giocare in arene di varie dimensioni (15×15 per duelli, mappe libere per battaglie più grandi, esagonali o quadrate, come vuoi te insomma).
 
----
-
 ## **2. Creazione del Personaggio**
 
 Ogni partita di _Slayer’s Arena_ inizia con la creazione del proprio personaggio, fondamentale per definire il proprio stile di gioco e le strategie da adottare in arena.
@@ -61,9 +59,6 @@ Alcuni esempi:
 - **Assassino**: specializzato in attacchi furtivi e movimento rapido.
     
 - **Necromante**: evoca scheletri e lancia maledizioni debilitanti.
-    
-
----
 
 ### **2.5 Consigli per la Creazione**
 
@@ -76,8 +71,6 @@ Bilancia gli attributi e le abilità in base alla **combo di classe e razza** ch
 - La LK è importante se preferisci affidarti al destino e ai tiri critici per ribaltare le situazioni difficili.
     
 - Ricorda che potenziare una singola abilità legata alla tua classe ti renderà più affidabile in quell’area.
-
----
 
 ## **3. Razze**
 
@@ -101,7 +94,6 @@ Ogni personaggio appartiene a una razza che modifica i suoi attributi base, conf
 
 **Nota:** Le modifiche agli attributi si sommano agli attributi base del personaggio. Dopo aver applicato le modifiche della razza, assegna i punti personaggio per potenziare ulteriormente gli attributi.
 
----
 ## **4. Classi**
 ### Guerriero ♣
 
@@ -113,7 +105,6 @@ Ogni personaggio appartiene a una razza che modifica i suoi attributi base, conf
     
 - **Attacco d’ira** – Al primo attacco del turno attivo aggiungi ai Danni la metà (arrotondata per difetto) dei Danni subiti nel turno passivo precedente; Attacco ravvicinato.
     
-
 ---
 
 ### Arciere ♣
@@ -124,7 +115,6 @@ Ogni personaggio appartiene a una razza che modifica i suoi attributi base, conf
     
 - **Erbe curative** – Cura: 1; Utilizzi: 3; Automatica; Passiva.
     
-
 ---
 
 ### Mago ♣
@@ -466,8 +456,6 @@ Ogni personaggio appartiene a una razza che modifica i suoi attributi base, conf
 - **Max N**: numero massimo di entità o utilizzi contemporanei permessi.
     
 
----
-
 ## **5. Movimento e Combattimento**
 
 - La partita si gioca a turni alternati.
@@ -481,8 +469,6 @@ Ogni personaggio appartiene a una razza che modifica i suoi attributi base, conf
 - Per colpire a distanza bisogna avere un’abilità o un’arma che lo permetta.
     
 
----
-
 ## **6. Abilità ed Effetti**
 
 - Le abilità richiedono MO per essere attivate.
@@ -491,9 +477,6 @@ Ogni personaggio appartiene a una razza che modifica i suoi attributi base, conf
     
 - Creature evocate agiscono **dopo** il turno del loro padrone.
     
-
----
-
 ## **7. Condizioni di Vittoria**
 
 - Vince l’ultimo giocatore con personaggi o evocazioni in vita.
